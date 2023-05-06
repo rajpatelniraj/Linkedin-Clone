@@ -1,0 +1,19 @@
+ .feed {
+    display: flex;
+    flex: 0.6;
+    flex-direction: column;
+    margin: 0 30px;
+ }
+.feed_input {
+    display: flex;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.feed .feed_input form {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
